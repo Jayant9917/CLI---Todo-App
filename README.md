@@ -7,7 +7,7 @@ A simple Node.js command-line Todo app to add, delete, complete, and list tasks 
 
 ## 🚀 Setup
  - bash
-git clone https://github.com/your-username/cli-todo-app.git
+git clone https://github.com/Jayant9917/cli-todo-app.git
 cd cli-todo-app
 npm install
 
